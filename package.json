@@ -1,5 +1,6 @@
 {
   "name": "hometask",
+  "homepage": "https://KattyLearner.github.io/hometask",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,7 +21,6 @@
     "uuid": "^8.3.2",
     "web-vitals": "^1.0.1"
   },
-  "homepage": "https://KattyLearner.github.io/hometask",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
