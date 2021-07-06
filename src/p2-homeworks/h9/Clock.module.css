@@ -1,0 +1,30 @@
+.clock {
+    width: 700px;
+    hight: 100%;
+    background-color: #385898;
+    padding: 30px;
+    border: 10px solid #daf6ff;
+}
+.time {
+    color: #daf6ff;
+    text-shadow: 0 0 20px #daf6ff, 0 0 20px rgba(10, 175, 230, 0);
+    /*background-color: #385898;*/
+
+
+    letter-spacing: 0.05em;
+    font-size: 80px;
+    padding: 5px 0;
+}
+
+.date {
+
+    width: 100px;
+    height: 50px;
+    color: #daf6ff;
+    text-shadow: 0 0 20px #385898, 0 0 20px rgba(10, 175, 230, 0);
+    /*background-color: #385898;*/
+
+    letter-spacing: 0.1em;
+    font-size: 24px;
+}
+
